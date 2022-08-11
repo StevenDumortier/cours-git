@@ -27,3 +27,20 @@
 | Créer une branch                                       | git branch <nom>                         |
 | Stocke temporairement les changements                  | git stash                                |
 | Envoyer vos changements dans le repo distant           | git push                                 |
+
+  
+ # Documentation ligne de commande git bash
+  
+  | Fonctionnalité                    | Ligne de code correspondant |
+|-----------------------------------|-----------------------------|
+| Lister le contenu d'un répertoire | ls                          |
+| Créer un répertoire ou dossier    | mkdir <nom>                 |
+| Supprimer un fichier              | rm <nom>                    |
+| Supprimer un dossier et contenu   | rm -r <nom>                 |
+| Créer un fichier                  | touch <nom>                 |
+| Lire un fichier                   | cat <nom>                   |
+| Naviguer dans notre file system   | cd                          |
+| Naviguer en arrière               | ../                         |
+| Dire a partir de ce file          | ./                          |
+| Voir le chemin                    | pwd                         |
+| Voir la taille d'un dossier       | du -h                       |
